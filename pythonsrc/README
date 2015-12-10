@@ -1,3 +1,11 @@
 hello everyone,this is my frist python.
 
 this is test git.
+
+git checkout -b dev
+
+git branch dev
+
+git add ngix.txt
+
+git commit -m "add ngix.txt and new branch dev"
