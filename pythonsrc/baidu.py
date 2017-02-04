@@ -1,4 +1,4 @@
-
+# -*- encoding: utf-8 -*-
 from splinter.browser import Browser
  
 b = Browser(driver_name="chrome")
